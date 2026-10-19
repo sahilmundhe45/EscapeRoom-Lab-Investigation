@@ -1,0 +1,22 @@
+# Never commit lab evidence, hashes, passwords or malware
+evidence/*
+!evidence/README.md
+*.pcap
+*.pcapng
+*.ko
+shadow.log
+*.hash
+*.potfile
+john.pot
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

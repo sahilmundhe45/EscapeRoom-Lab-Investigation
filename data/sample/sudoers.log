@@ -1,0 +1,14 @@
+# Synthetic sudoers excerpt (format only)
+Defaults	env_reset
+root	ALL=(ALL:ALL) ALL
+
+# Members of the admin group may gain root privileges
+%admin ALL=(ALL) ALL
+guest   ALL=(ALL) ALL
+manager ALL=(ALL) ALL
+sean    ALL=(ALL) ALL
+roger   ALL=(ALL) ALL
+pierce  ALL=(ALL) ALL
+
+# Allow members of group sudo to execute any command
+%sudo   ALL=(ALL:ALL) ALL

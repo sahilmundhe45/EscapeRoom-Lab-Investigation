@@ -1,0 +1,7 @@
+{
+  "_note": "Indicators from the EscapeRoom reference solution. Validate against original evidence before blocking.",
+  "ip_address": ["174.129.57.253"],
+  "md5": ["772b620736b760c1d736b1e6ba2f885b"],
+  "path": ["/var/mail/mail", "/etc/rc.local"],
+  "file_name": ["sysmod.ko"]
+}

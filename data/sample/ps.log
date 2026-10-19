@@ -1,0 +1,9 @@
+USER       PID %CPU %MEM COMMAND
+root         1  0.0  0.1 /sbin/init
+syslog     619  0.1  0.0 rsyslogd -c5
+root       732  0.1  0.5 sshd: ubuntu [priv]
+mysql      741  1.5  7.0 /usr/sbin/mysqld
+root       777  0.0  0.2 /usr/sbin/apache2 -k start
+www-data   779  0.0  0.3 /usr/sbin/apache2 -k start
+root      1164  0.0  0.1 bash
+root      1176  0.0  0.1 ps aux

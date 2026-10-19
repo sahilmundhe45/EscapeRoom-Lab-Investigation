@@ -1,0 +1,6 @@
+Using default input encoding: UTF-8
+Loaded 11 password hashes with 11 different salts (sha512crypt)
+Will run 4 OpenMP threads
+forgot           (manager)
+god              (gibson)
+spectre          (sean)
