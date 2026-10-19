@@ -97,9 +97,9 @@ EscapeRoom-Lab-Investigation/
 
 ## References
 
-1. Y. Fargaly, "CyberDefenders: EscapeRoom Lab," Medium, 2024.
-2. CyberDefenders, "EscapeRoom" — Blue Team CTF Challenges.
-3. K. Kent et al., "Guide to Integrating Forensic Techniques into Incident Response," NIST SP 800-86, 2006.
+
+1. CyberDefenders, "EscapeRoom" — Blue Team CTF Challenges.
+2. K. Kent et al., "Guide to Integrating Forensic Techniques into Incident Response," NIST SP 800-86, 2006.
 
 ## License
 
